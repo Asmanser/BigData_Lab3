@@ -1,0 +1,3 @@
+ip1 - - [24/Apr/2011:04:10:19 -0400] "GET /~strabal/grease/photo1/97-13.jpg HTTP/1.1" 200 56928 "-" "Opera/9.80 (Windows NT 5.1; U; en) Presto/2.6.30 Version/10.62"
+ip1 - - [24/Apr/2011:04:14:36 -0400] "GET /~strabal/grease/photo9/927-5.jpg HTTP/1.1" 200 42011 "-" "Opera/9.80 (Windows NT 5.1; U; en) Presto/2.6.30 Version/10.62"
+ip2 - - [24/Apr/2011:04:20:11 -0400] "GET /sun_ss5/ HTTP/1.1" 200 14917 "http://www.stumbleupon.com/refer.php?url=http%3A%2F%host1%2Fsun_ss5%2F" "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16"
